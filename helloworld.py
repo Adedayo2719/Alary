@@ -1,1 +1,5 @@
 print ('Mary')
+print ('Seun')
+print ('Victoria')
+print ('Joshua')
+print ('Janet')
